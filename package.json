@@ -1,0 +1,23 @@
+{
+  "name": "search-index-issue-537",
+  "version": "1.0.0",
+  "description": "as per https://github.com/fergiemcdowall/search-index/issues/537",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fergiemcdowall/search-index-issue-537.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fergiemcdowall/search-index-issue-537/issues"
+  },
+  "homepage": "https://github.com/fergiemcdowall/search-index-issue-537#readme",
+  "dependencies": {
+    "memdown": "^6.0.0",
+    "search-index": "^2.3.0"
+  }
+}
